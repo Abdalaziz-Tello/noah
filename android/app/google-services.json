@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206152933223",
+    "project_id": "noah-note",
+    "storage_bucket": "noah-note.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206152933223:android:8bc2ac873ba31942cad9c2",
+        "android_client_info": {
+          "package_name": "com.example.noah_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_VLDbB4H5GGEWxjppYk5PnC3VLJ2KknQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
